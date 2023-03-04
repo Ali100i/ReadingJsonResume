@@ -1,0 +1,950 @@
+{
+    "Value": {
+      "Data": {
+        "Name": {
+          "Raw": "Ahmad Khalid",
+          "First": "Ahmad",
+          "Last": "Khalid",
+          "Middle": "",
+          "Title": ""
+        },
+        "PhoneNumbers": [
+          "+966551234567"
+        ],
+        "Websites": [],
+        "Emails": [
+          "ahmad.khalid@hotmail.com"
+        ],
+        "DateOfBirth": "1996-02-11",
+        "Location": null,
+        "Objective": "",
+        "Languages": [
+          "English",
+          "Arabic"
+        ],
+        "LanguageCodes": [],
+        "Summary": "",
+        "TotalYearsExperience": 3,
+        "HeadShot": null,
+        "Education": [
+          {
+            "Id": 7929045,
+            "Organization": "Imam abdulrahman bin faisal university",
+            "Accreditation": {
+              "Education": "Bachelor of Computer Information Systems",
+              "InputStr": "Bachelor of Computer Information Systems",
+              "MatchStr": "",
+              "EducationLevel": "bachelors"
+            },
+            "Grade": {
+              "Raw": "4.47/5 GPA.",
+              "Metric": "GPA",
+              "Value": "4.47/5"
+            },
+            "Location": {
+              "Formatted": "Dammam Saudi Arabia",
+              "PostalCode": null,
+              "State": "Eastern Province",
+              "Country": "Saudi Arabia",
+              "CountryCode": "SA",
+              "RawInput": "Dammam, Saudi Arabia/2014-2019",
+              "StreetNumber": null,
+              "Street": null,
+              "ApartmentNumber": null,
+              "City": "Dammam"
+            },
+            "Dates": null
+          }
+        ],
+        "Profession": "Web Developer Specialist",
+        "Linkedin": null,
+        "WorkExperience": [
+          {
+            "Id": 14896808,
+            "JobTitle": "Sr. Specialist",
+            "SocCode": null,
+            "SocName": null,
+            "Organization": "Solutions by STC",
+            "Industry": null,
+            "Location": {
+              "Formatted": "Riyadh 11564, Saudi Arabia",
+              "PostalCode": "11564",
+              "State": "Riyadh Province",
+              "Country": "Saudi Arabia",
+              "CountryCode": "SA",
+              "RawInput": "Riyadh, Saudi Arabia",
+              "StreetNumber": null,
+              "Street": null,
+              "ApartmentNumber": null,
+              "City": "Riyadh"
+            },
+            "JobDescription": " Conducted business analysis and requirements gathering activities. \n•Contributed in the development, enhancement, and launching of RPA processes. \n•Prepared Process Definition Document (PDD). \n•Performed process testing activities and conducted several UAT sessions. \n•Administrated processes on the Orchestrator. \n•Improved business operations with Automation. \n•Observed daily operations and conducted innovation initiatives. ",
+            "Dates": {
+              "StartDate": "2021-06-01T00:00:00+00:00",
+              "EndDate": "2022-12-17T00:00:00+00:00",
+              "MonthsInPosition": 19,
+              "IsCurrent": true
+            },
+            "Occupation": {
+              "JobTitle": "Sr. Specialist",
+              "JobTitleNormalized": "Specialist",
+              "ManagementLevel": null,
+              "Classification": {
+                "Title": "IT operations technicians",
+                "MinorGroup": "Information Technology Technicians",
+                "SubMajorGroup": "SCIENCE, ENGINEERING AND TECHNOLOGY ASSOCIATE PROFESSIONALS",
+                "MajorGroup": "ASSOCIATE PROFESSIONAL OCCUPATIONS",
+                "SocCode": 3131
+              }
+            }
+          },
+          {
+            "Id": 14896809,
+            "JobTitle": "RPA Developer and Technical Consultant",
+            "SocCode": null,
+            "SocName": null,
+            "Organization": "Al-Falak Electronic Equipment & Supplies Co.",
+            "Industry": null,
+            "Location": {
+              "Formatted": "Al Khobar Saudi Arabia",
+              "PostalCode": null,
+              "State": "Eastern Province",
+              "Country": "Saudi Arabia",
+              "CountryCode": "SA",
+              "RawInput": "Khobar, Saudi Arabia",
+              "StreetNumber": null,
+              "Street": null,
+              "ApartmentNumber": null,
+              "City": "Al Khobar"
+            },
+            "JobDescription": " Implemented Al-Falak Manpower RPA processes for HR, Supply Chain, Manpower and Administration departments. \n•Conducted pre-sales presentations, discovery sessions, sizing and Scope of Work preparations for multiple clients. \n•Conducted business analysis and requirements gathering activities. \n•Prepared the Process Definition Document (PDD) for several processes. \n•Developed multiple processes using UiPath Studio after thorough business analysis sessions with the business users. \n•Performed process testing activities and conducted several UAT sessions. \n•Conducted post UAT training sessions to business users. \n•Deployed and maintained the processes on the Orchestrator. \n•Implemented a Process Mining project for P2P and O2C processes. ",
+            "Dates": {
+              "StartDate": "2019-12-01T00:00:00+00:00",
+              "EndDate": "2021-05-01T00:00:00+00:00",
+              "MonthsInPosition": 17,
+              "IsCurrent": false
+            },
+            "Occupation": {
+              "JobTitle": "RPA Developer and Technical Consultant",
+              "JobTitleNormalized": "RPA Developer",
+              "ManagementLevel": 1,
+              "Classification": {
+                "Title": "Programmers and software development professionals ",
+                "MinorGroup": "Information Technology Professionals",
+                "SubMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                "MajorGroup": "PROFESSIONAL OCCUPATIONS",
+                "SocCode": 2134
+              }
+            }
+          },
+          {
+            "Id": 14896810,
+            "JobTitle": "Intern",
+            "SocCode": null,
+            "SocName": null,
+            "Organization": "Zamil Industrial",
+            "Industry": null,
+            "Location": {
+              "Formatted": "Dammam Saudi Arabia",
+              "PostalCode": null,
+              "State": "Eastern Province",
+              "Country": "Saudi Arabia",
+              "CountryCode": "SA",
+              "RawInput": "Dammam, Saudi Arabia",
+              "StreetNumber": null,
+              "Street": null,
+              "ApartmentNumber": null,
+              "City": "Dammam"
+            },
+            "JobDescription": " Technical support and web developer. ",
+            "Dates": {
+              "StartDate": "2018-05-01T00:00:00+00:00",
+              "EndDate": "2018-07-01T00:00:00+00:00",
+              "MonthsInPosition": 2,
+              "IsCurrent": false
+            },
+            "Occupation": {
+              "JobTitle": "Intern",
+              "JobTitleNormalized": "Intern",
+              "ManagementLevel": 1,
+              "Classification": {
+                "Title": "Business, research and administrative professionals n.e.c.",
+                "MinorGroup": "Business, Research and Administrative Professionals",
+                "SubMajorGroup": "BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS",
+                "MajorGroup": "PROFESSIONAL OCCUPATIONS",
+                "SocCode": 2439
+              }
+            }
+          }
+        ],
+        "Skills": [
+          {
+            "Id": 79332549,
+            "EmsiId": "KS440W865GC4VRBW6LJP",
+            "Name": "SQL (Programming Language)",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332550,
+            "EmsiId": "KS120076FGP5WGWYMP0F",
+            "Name": "Java (Programming Language)",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332551,
+            "EmsiId": "KS127T174XSWC7FC998W",
+            "Name": "PHPMyAdmin",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332552,
+            "EmsiId": "KS1200771D9CR9LB4MWW",
+            "Name": "JavaScript (Programming Language)",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332553,
+            "EmsiId": "ESEB1D4619E6E83A061D",
+            "Name": "Planning",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332555,
+            "EmsiId": "KS128266NYPF3X9VTGSM",
+            "Name": "Process Mining",
+            "LastUsed": "2021-05-01",
+            "NumberOfMonths": 17,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Training/Certifications",
+                "Position": null,
+                "WorkExperienceId": null
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 14896809
+              }
+            ]
+          },
+          {
+            "Id": 79332557,
+            "EmsiId": "KS123FS6SM7YBY0BS2T7",
+            "Name": "Electronics",
+            "LastUsed": "2021-05-01",
+            "NumberOfMonths": 17,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 14896809
+              }
+            ]
+          },
+          {
+            "Id": 79332558,
+            "EmsiId": "ESC27AAFB5C81308A6AA",
+            "Name": "Adobe XD",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332559,
+            "EmsiId": "KS1218C6C8TX2Y1KRN37",
+            "Name": "Business Analysis",
+            "LastUsed": "2022-12-17",
+            "NumberOfMonths": 36,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 0,
+                "WorkExperienceId": 14896808
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 14896809
+              }
+            ]
+          },
+          {
+            "Id": 79332560,
+            "EmsiId": "KS120RM619V18NJXTHV1",
+            "Name": "HTML5",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332561,
+            "EmsiId": "KS1253H61TTR1FZWSRH4",
+            "Name": "Innovation",
+            "LastUsed": "2022-12-17",
+            "NumberOfMonths": 19,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "PersonalDetails",
+                "Position": null,
+                "WorkExperienceId": null
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 0,
+                "WorkExperienceId": 14896808
+              }
+            ]
+          },
+          {
+            "Id": 79332562,
+            "EmsiId": "KS1200364C9C1LK3V5Q1",
+            "Name": "C (Programming Language)",
+            "LastUsed": "2022-12-17",
+            "NumberOfMonths": 38,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              },
+              {
+                "Section": "Training/Certifications",
+                "Position": null,
+                "WorkExperienceId": null
+              },
+              {
+                "Section": "PersonalDetails",
+                "Position": null,
+                "WorkExperienceId": null
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 0,
+                "WorkExperienceId": 14896808
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 14896809
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 2,
+                "WorkExperienceId": 14896810
+              }
+            ]
+          },
+          {
+            "Id": 79332565,
+            "EmsiId": "KS124JB619VXG6RQ810C",
+            "Name": "Leadership",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332566,
+            "EmsiId": "KS120V76S9QX3N1YC08G",
+            "Name": "Axure RP",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332567,
+            "EmsiId": "KS126N85X7GWLVFQDDYL",
+            "Name": "Mockup",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332569,
+            "EmsiId": "KS120GV5ZXR64CJLL1J4",
+            "Name": "Analytics",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Training/Certifications",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332571,
+            "EmsiId": "KS126XV67YHQVRJJP2D6",
+            "Name": "NetBeans",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332572,
+            "EmsiId": "KSJ7DU5TY8WHGF1CUXHN",
+            "Name": "UiPath (RPA Software)",
+            "LastUsed": "2021-05-01",
+            "NumberOfMonths": 17,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              },
+              {
+                "Section": "Training/Certifications",
+                "Position": null,
+                "WorkExperienceId": null
+              },
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              },
+              {
+                "Section": "Training/Certifications",
+                "Position": null,
+                "WorkExperienceId": null
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 14896809
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 14896809
+              }
+            ]
+          },
+          {
+            "Id": 79332573,
+            "EmsiId": "ES84406857CBEEFACE95",
+            "Name": "Business Operations",
+            "LastUsed": "2022-12-17",
+            "NumberOfMonths": 19,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 0,
+                "WorkExperienceId": 14896808
+              }
+            ]
+          },
+          {
+            "Id": 79332574,
+            "EmsiId": "KS441626TDSV2J6GBB86",
+            "Name": "Tableau (Business Intelligence Software)",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332575,
+            "EmsiId": "KS126QY605N7YVHFYCTW",
+            "Name": "MySQL",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332576,
+            "EmsiId": "KS120LB6XV5409BCQ0NF",
+            "Name": "Technical Support",
+            "LastUsed": "2018-07-01",
+            "NumberOfMonths": 2,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 2,
+                "WorkExperienceId": 14896810
+              }
+            ]
+          },
+          {
+            "Id": 79332583,
+            "EmsiId": "KSKJX44T33B6D4UCC8CB",
+            "Name": "Teamwork",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332585,
+            "EmsiId": "KS122556LMQ829GZCCRV",
+            "Name": "Communications",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332579,
+            "EmsiId": "KS127D361PF0FTXDZ7C4",
+            "Name": "Operations",
+            "LastUsed": "2022-12-17",
+            "NumberOfMonths": 19,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "PersonalDetails",
+                "Position": null,
+                "WorkExperienceId": null
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 0,
+                "WorkExperienceId": 14896808
+              }
+            ]
+          },
+          {
+            "Id": 79332582,
+            "EmsiId": "KS1280B68GD79P4WMVYW",
+            "Name": "Presentations",
+            "LastUsed": "2021-05-01",
+            "NumberOfMonths": 17,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 14896809
+              }
+            ]
+          },
+          {
+            "Id": 79332554,
+            "EmsiId": "ES72D57E1BC4BB22BBB0",
+            "Name": "Supply Chain",
+            "LastUsed": "2021-05-01",
+            "NumberOfMonths": 17,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 14896809
+              }
+            ]
+          },
+          {
+            "Id": 79332556,
+            "EmsiId": "KS122R865B9T68GPYPF2",
+            "Name": "MySQL Workbench",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332568,
+            "EmsiId": "KS1200C5XQWW78VQ5ZYL",
+            "Name": "PHP (Scripting Language)",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332570,
+            "EmsiId": "KS128006SHHBNZBR2DQZ",
+            "Name": "Predictive Analytics",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Training/Certifications",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332577,
+            "EmsiId": "KS441LF7187KS0CV4B6Y",
+            "Name": "TypeScript",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332578,
+            "EmsiId": "KS126HD6VL9XVJ2V08HC",
+            "Name": "Microsoft Visual Studio",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332580,
+            "EmsiId": "KS120376KM9F1NBQ7F7K",
+            "Name": "Test Suite",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Training/Certifications",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332581,
+            "EmsiId": "KSYZ2R5N1BB8EQ6INPZP",
+            "Name": "Alteryx",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 79332584,
+            "EmsiId": "KS4424T5VR6Q2MZTV2ZS",
+            "Name": "Workbench",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          }
+        ],
+        "Certifications": [
+          "Programming skills",
+          "Advanced RPA Developer Certification UiPath January 2020",
+          "Process Mining Foundation for Consultants UiPath June 2020",
+          "Solution Architect Foundation UiPath April 2021",
+          "Training Courses"
+        ],
+        "Publications": [],
+        "Referees": [],
+        "Sections": [
+          {
+            "SectionType": "PersonalDetails",
+            "Bbox": [
+              8.268936,
+              6.765991,
+              259.754517,
+              256.562
+            ],
+            "PageIndex": 0,
+            "Text": "This message/document has been classified as \"Public\" "
+          },
+          {
+            "SectionType": "WorkExperience",
+            "Bbox": [
+              186.812576,
+              13.3014526,
+              526.863953,
+              595.404
+            ],
+            "PageIndex": 0,
+            "Text": "Experience Sr. Specialist Solutions by STC Riyadh, Saudi Arabia / June 2021-Present • Conducted business analysis and requirements gathering activities. • Contributed in the development, enhancement, and launching of RPA processes. • Prepared Process Definition Document (PDD). • Performed process testing activities and conducted several UAT sessions. • Administrated processes on the Orchestrator. • Improved business operations with Automation. • Observed daily operations and conducted innovation initiatives. RPA Developer and Technical Consultant Al-Falak Electronic Equipment & Supplies Co. Khobar, Saudi Arabia /December 2019 –May 2021 • Implemented Al-Falak Manpower RPA processes for HR, Supply Chain, Manpower and Administration departments. • Conducted pre-sales presentations, discovery sessions, sizing and Scope of Work preparations for multiple clients. • Conducted business analysis and requirements gathering activities. • Prepared the Process Definition Document (PDD) for several processes. • Developed multiple processes using UiPath Studio after thorough business analysis sessions with the business users. • Performed process testing activities and conducted several UAT sessions. • Conducted post UAT training sessions to business users. • Deployed and maintained the processes on the Orchestrator. • Implemented a Process Mining project for P2P and O2C processes. Intern / Zamil Industrial Dammam, Saudi Arabia / May 2018 –July 2018 • Technical support and web developer."
+          },
+          {
+            "SectionType": "Skills/Interests/Languages",
+            "Bbox": [
+              7.23599958,
+              277.340027,
+              167.564072,
+              773.674
+            ],
+            "PageIndex": 0,
+            "Text": "Technical Skills: Programming skills: Java, C++, SQL, PHP, JavaScript, TypeScript, HTML5, CSS3. Tools: UiPath Studio, Alteryx ,Visual Studio Code, NetBeans, Brackets, Balasmiq Mockup, Axure RP, MySQL Workbench, PhpMyAdmin, Tableau, Adobe XD, Packet Tracer. Personal Skills: • Communication skills • Leadership skills • Self-development skills • Teamwork skills • Planning skills Languages: •Arabic ( native ) •English ( Fluent )"
+          },
+          {
+            "SectionType": "Education",
+            "Bbox": [
+              186.946014,
+              605.9609,
+              418.861359,
+              683.712036
+            ],
+            "PageIndex": 0,
+            "Text": "Education Bachelor of Computer Information Systems Imam Abdulrahman bin Faisal University Dammam, Saudi Arabia/2014-2019 4.47/5 GPA."
+          },
+          {
+            "SectionType": "Training/Certifications",
+            "Bbox": [
+              187.306015,
+              694.676636,
+              507.383972,
+              935.628
+            ],
+            "PageIndex": 0,
+            "Text": "Certificates • Advanced RPA Developer Certification, UiPath, January 2020 • Business Analyst, UiPath, January 2020 • Process Mining Foundation for Consultants, UiPath, June 2020 • Predictive Analytics Nanodegree, Udacity, August 2020 • Process Mining Bootcamp, UiPath, September 2020 • Pre-sales, UiPath, March 2021 • Solution Architect Foundation, UiPath, April 2021 • Test Suite Bootcamp,UiPath, April 2021 Training Courses • Document Understanding,UiPath, September 2020 • AI Fabric,UiPath,September 2020 • UiPath Apps, UiPath, April 2021"
+          }
+        ],
+        "IsResumeProbability": 95,
+        "RawText": "This message/document has been classified as \"Public\" ",
+        "AdditionalProperties": {}
+      },
+      "Meta": {
+        "Identifier": "yYhzdQhK",
+        "FileName": "null.pdf",
+        "Ready": true,
+        "ReadyDt": "2022-12-17T17:10:37.359605+00:00",
+        "Failed": false,
+        "ExpiryTime": null,
+        "Language": "en",
+        "Pdf": "https://affinda-api.s3.amazonaws.com/media/documents/null_zbnDwVh.pdf?AWSAccessKeyId=ASIAU2V7FN3BXF34CTGK&Signature=9LUTIaKeHv%2FxdkFfIREhHqYTLKs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEPf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0yIkcwRQIgeg4ozhtaRU%2BG5Vay5emUJ9HT9FebCuy9RGe4BI31KZcCIQDKE6hukwOTjoGQ6QTez13tdXZjTeZoo450Usm2fZM7LCriAwgwEAAaDDMzMjE4NzEzNTY4MyIM3evvRHdZMX1NhPVpKr8DJaGPO%2BF9wJzx2%2BqNDxSCu30AXc%2FKxdz%2FC0rb%2FG%2B9XFDsCJ41x3yYREBCq%2F%2Fmq0VWLbLAIn1XPdZM4uixyy2TPCtE13i470RvDVCmRvvMiWSHUGEcVJIPO9qS653fvz99q%2FFT9raoXWOzVNR5%2F2dJs5V%2Fv4N2I2vfOWB%2FsblwBgemNZ0VQBSMtLwauqkBWhukYtVQLc1u1GpgaQi3%2BZifwXBjWDAby3Pyn1%2BGxHo6XLTuUiBgjgBiHM2dCOSohQZe1RuAdLkhsd9JIVnj3P5YjA5itMydQVISzEydXycwdWz0xxW2MT28spuoed6ANdABblvcpgwOTsOnqanw3RGrs0oXDnAtkm10ObezQBTcdZAsGrAoPaJ3NXgOpu0j4tkPhFYZB6yfTBfIZrhxOw%2Fmi8KpC0ume8DFa6LkNI7zaG0n5cRs53i1wj70W0A1XhPSbQEMGBvCLe3e4h6pnD%2FVrn3ty2uMsKDbppbUN9LuGiFeM3cjut%2Fi6Gtn7%2BsIXIsKajswEzCJfXIM%2BvOo3MmMoD1udnSsrZae5RQ9ti6edbZhBObhLktbA4wI7RGRnpZuOIpyC3neGErZ0Ag2ULSmMMmq95wGOqUByjNnAe%2FIjUflxSG0VZjmN0Xs%2BwGznLfB0jXfRyT4trv8iR2N0jnJMe7DKnIZXmk8CO7Cwud5A9xAS9SngaWQSnei%2BaCx8rm7J93IcdOUnRypwMf3VES7EuLdsoXfsdyPsFtir2XKSFGyyXk6oXD7nODU0NwE%2BfCpI6ZlVUbIyK0laB%2FaGnduk1qvTa4CCb%2BlH2a6emrD8eVsxv5XpeT%2F1732fG8k&Expires=1671300638",
+        "ParentDocument": null,
+        "ChildDocuments": [],
+        "Pages": [
+          {
+            "Id": 9086992,
+            "PageIndex": 0,
+            "Image": null,
+            "Height": 960.0,
+            "Width": 540.0,
+            "Rotation": 0
+          }
+        ],
+        "IsVerified": false,
+        "ReviewUrl": null,
+        "OcrConfidence": null,
+        "AdditionalProperties": {
+          "documentType": "resume"
+        }
+      },
+      "Error": {
+        "ErrorCode": null,
+        "ErrorDetail": null
+      }
+    }
+  }

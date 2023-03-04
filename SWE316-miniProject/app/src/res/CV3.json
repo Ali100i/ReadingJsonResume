@@ -1,0 +1,684 @@
+{
+    "Value": {
+      "Data": {
+        "Name": {
+          "Raw": "Cv.Abdullah Alqahtani",
+          "First": "Cv.Abdullah",
+          "Last": "Alqahtani",
+          "Middle": "",
+          "Title": ""
+        },
+        "PhoneNumbers": [],
+        "Websites": [],
+        "Emails": [
+          "Abdullahrs88@gmail.com"
+        ],
+        "DateOfBirth": "1988-04-28",
+        "Location": null,
+        "Objective": "",
+        "Languages": [
+          "English"
+        ],
+        "LanguageCodes": [],
+        "Summary": "Currently I am working as an Information Security Architect at Saudi Payments Company focusing deeply on securing Saudi Payment Systems.I did MSc in Cyber Security at LJMU.As I have a strong background in deploying Honeypots to analyse different types of cyber-attack such as DoS. As well as , having quite good experience in manual penetration testing. Quick to familiarise myself with the latest technologies and industry developments while demonstrating a logical and analytical approach to solving complex problems and issues.",
+        "TotalYearsExperience": 5,
+        "HeadShot": null,
+        "Education": [
+          {
+            "Id": 8158162,
+            "Organization": "Liverpool John Moores University",
+            "Accreditation": {
+              "Education": "Computer Network Security,",
+              "InputStr": "Computer Network Security,",
+              "MatchStr": "",
+              "EducationLevel": null
+            },
+            "Grade": {
+              "Raw": "distinction.GPA:4.82.",
+              "Metric": "distinction.GPA",
+              "Value": "4.82"
+            },
+            "Location": {
+              "Formatted": "United Kingdom",
+              "PostalCode": null,
+              "State": null,
+              "Country": "United Kingdom",
+              "CountryCode": "GB",
+              "RawInput": "United Kingdom(2012-2013),",
+              "StreetNumber": null,
+              "Street": null,
+              "ApartmentNumber": null,
+              "City": null
+            },
+            "Dates": null
+          },
+          {
+            "Id": 8158163,
+            "Organization": "of Essex",
+            "Accreditation": {
+              "Education": "Bachelor of Engineering",
+              "InputStr": "BEng:",
+              "MatchStr": "",
+              "EducationLevel": "bachelors"
+            },
+            "Grade": {
+              "Raw": ". GPA: 4.37.",
+              "Metric": "GPA",
+              "Value": "4.37"
+            },
+            "Location": {
+              "Formatted": "1611 N 16th St, Parsons, KS 67357, USA",
+              "PostalCode": "67357",
+              "State": "Kansas",
+              "Country": "United States",
+              "CountryCode": "US",
+              "RawInput": "Kingdom",
+              "StreetNumber": "1611",
+              "Street": "North 16th Street",
+              "ApartmentNumber": null,
+              "City": "Parsons"
+            },
+            "Dates": {
+              "CompletionDate": "2012-01-01T00:00:00+00:00",
+              "IsCurrent": false,
+              "StartDate": "2008-01-01T00:00:00+00:00"
+            }
+          }
+        ],
+        "Profession": "Information Security",
+        "Linkedin": null,
+        "WorkExperience": [
+          {
+            "Id": 15291494,
+            "JobTitle": "Information Security Architect",
+            "SocCode": null,
+            "SocName": null,
+            "Organization": "Saudi Payments",
+            "Industry": null,
+            "Location": null,
+            "JobDescription": " Seeking security gaps in the current design in some selected solutions. \n•Evaluating and rating new products in the aspect of information security. \n•Create general security requirements for RFPs for payment and non-payments soltuions. \n•Redesigning the network between mada and Network Service Providers. \n•Creating general security requirements for SaudiPayments Websites. \n•Building Information Security standard for our new Data Center . \n•Train new employees joining our information security department. \n•Working with external party to review the current architecture of Payment Systems. \n•Member of IT proposals evaluation team. ",
+            "Dates": {
+              "StartDate": null,
+              "EndDate": "2019-03-01T00:00:00+00:00",
+              "MonthsInPosition": null,
+              "IsCurrent": false
+            },
+            "Occupation": {
+              "JobTitle": "Information Security Architect",
+              "JobTitleNormalized": "Information Security Architect",
+              "ManagementLevel": 1,
+              "Classification": {
+                "Title": "Cyber security professionals",
+                "MinorGroup": "Information Technology Professionals",
+                "SubMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                "MajorGroup": "PROFESSIONAL OCCUPATIONS",
+                "SocCode": 2135
+              }
+            }
+          },
+          {
+            "Id": 15291495,
+            "JobTitle": "Information Security Architect",
+            "SocCode": null,
+            "SocName": null,
+            "Organization": "Arabian Monetary Authority (SAMA)",
+            "Industry": null,
+            "Location": {
+              "Formatted": "Saudi Arabia",
+              "PostalCode": null,
+              "State": null,
+              "Country": "Saudi Arabia",
+              "CountryCode": "SA",
+              "RawInput": "Saudi",
+              "StreetNumber": null,
+              "Street": null,
+              "ApartmentNumber": null,
+              "City": null
+            },
+            "JobDescription": " Review and control multiple security architecture designs to several payment systems including SARIE , mada and SADAD. As well as reviewing the architecture design for new member bank connecting to our environment, \n•Designing and implementing mada Pay Integration with Apple Pay from information security view.. \n•Designing the integration between security tools and new IT solutions. \n•Approval management for Security Change Requests and other systems' NAR requests. \n•Assist in designing MDM solution to access our internal systems securely over the internet using mobile devices. \n•Involved in the team who have invented mada Pay mobile app .In Addition , managing & supporting the security domains in several aspects of mada Pay mobile systems. \n•Creating and reviewing security policies & requirements to our payment environment involving mada Point of Sale security requirements, mada Pay ,and mada Certification center ,etc. \n•Evaluating and designing new security solutions . \n•cooperating with the external auditors to ensure that we fulfill the compliance requirements . \n•A member of SAMA technical team for Gulf Corporation Council Countries (GCC) –\"RTGS-PKI\" project. This involves reviewing the architecture design and evaluating RTGS-PKI vendors. \n•Reviewing the architecture design of CryptoCurrency \"Aber\" Project between GCC countries . ",
+            "Dates": {
+              "StartDate": null,
+              "EndDate": "2018-07-01T00:00:00+00:00",
+              "MonthsInPosition": null,
+              "IsCurrent": false
+            },
+            "Occupation": {
+              "JobTitle": "Information Security Architect",
+              "JobTitleNormalized": "Information Security Architect",
+              "ManagementLevel": 1,
+              "Classification": {
+                "Title": "Cyber security professionals",
+                "MinorGroup": "Information Technology Professionals",
+                "SubMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                "MajorGroup": "PROFESSIONAL OCCUPATIONS",
+                "SocCode": 2135
+              }
+            }
+          },
+          {
+            "Id": 15291496,
+            "JobTitle": "Information Security Specialist",
+            "SocCode": null,
+            "SocName": null,
+            "Organization": "Saudi Arabian Monetary Authority (SAMA)",
+            "Industry": null,
+            "Location": null,
+            "JobDescription": " Participated in building a new Public Key Infrastructure & Europay MasterCard Visa (EMV) systems as Technical Leader which involves the following tasks: Design, implementation ,testing ,documentation . \n•Implementing and updating security policies and requirements for several systems of SARIE and MADA ,SADAD Payments . \n•Implementing and testing the links encryption of fiber optic for SAMA network .. \n•Deploying and Testing unique security tools and security Hardware for 3 new joined Banks to SARIE system. \n•Managing multi security systems including but not limited to ,DLP , ,Vulnerability Scanning and Privilege Access Management. \n•Managing Hardware Security Enhancement project for both SARIE and MADA systems . \n•Managing the approval of banks' technical security requests. \n•Implementing ,testing and run PKI & EMV Disaster Recovery systems . \n•Re-certify digitally all banks' SARIE system yearly . \n•Enroll and manage user access to our environment securely over mobile devices. Plus , creating compliance and monitored it against several non-compliance activities. \n•Reviewing physically Banks' Data Center and making sure the data centers are complied with SAMA Security Requirements. \n•Documenting procedures for IT security solutions . ",
+            "Dates": {
+              "StartDate": null,
+              "EndDate": "2014-02-01T00:00:00+00:00",
+              "MonthsInPosition": null,
+              "IsCurrent": false
+            },
+            "Occupation": {
+              "JobTitle": "Information Security Specialist",
+              "JobTitleNormalized": "Information Security Specialist",
+              "ManagementLevel": 1,
+              "Classification": {
+                "Title": "Cyber security professionals",
+                "MinorGroup": "Information Technology Professionals",
+                "SubMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                "MajorGroup": "PROFESSIONAL OCCUPATIONS",
+                "SocCode": 2135
+              }
+            }
+          }
+        ],
+        "Skills": [
+          {
+            "Id": 81901398,
+            "EmsiId": "KS1AXEV820JRITFOSHBH",
+            "Name": "Airwatch",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Training/Certifications",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 81901399,
+            "EmsiId": "KS1218W78FGVPVP2KXPX",
+            "Name": "Management",
+            "LastUsed": "2018-07-01",
+            "NumberOfMonths": null,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 15291495
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 2,
+                "WorkExperienceId": 15291496
+              }
+            ]
+          },
+          {
+            "Id": 81901402,
+            "EmsiId": "KS441XY6MSD48HBJTM78",
+            "Name": "Vulnerability",
+            "LastUsed": "2014-02-01",
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 2,
+                "WorkExperienceId": 15291496
+              }
+            ]
+          },
+          {
+            "Id": 81901403,
+            "EmsiId": "KS122MK65TBR6RDBZL1P",
+            "Name": "Cyber Security",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Summary",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 81901404,
+            "EmsiId": "KS121XY6VSGJ3Z6J82FQ",
+            "Name": "Infrastructure",
+            "LastUsed": "2014-02-01",
+            "NumberOfMonths": null,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 2,
+                "WorkExperienceId": 15291496
+              }
+            ]
+          },
+          {
+            "Id": 81901405,
+            "EmsiId": "KS440NM6N05DM8TSV6QZ",
+            "Name": "Mobile App",
+            "LastUsed": "2018-07-01",
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 15291495
+              }
+            ]
+          },
+          {
+            "Id": 81901406,
+            "EmsiId": "KS687J575SCWVW3LR42K",
+            "Name": "Security Systems",
+            "LastUsed": "2014-02-01",
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 2,
+                "WorkExperienceId": 15291496
+              }
+            ]
+          },
+          {
+            "Id": 81901407,
+            "EmsiId": "KS1230J6Z8029TC15P7L",
+            "Name": "Disaster Recovery",
+            "LastUsed": "2014-02-01",
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 2,
+                "WorkExperienceId": 15291496
+              }
+            ]
+          },
+          {
+            "Id": 81901408,
+            "EmsiId": "KSKF56CTSLSDIQNC1Y61",
+            "Name": "Honeypots (Computing)",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Summary",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 81901409,
+            "EmsiId": "KS1255Y65SXCJWZBC26Y",
+            "Name": "Installation",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Training/Certifications",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 81901411,
+            "EmsiId": "ESD10C356D19164207BC",
+            "Name": "Cryptocurrency",
+            "LastUsed": "2018-07-01",
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 15291495
+              }
+            ]
+          },
+          {
+            "Id": 81901412,
+            "EmsiId": "KS127VR6BW7GWQ25V5M3",
+            "Name": "Public Key Infrastructure",
+            "LastUsed": "2014-02-01",
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 2,
+                "WorkExperienceId": 15291496
+              }
+            ]
+          },
+          {
+            "Id": 81901414,
+            "EmsiId": "KS125716TLTGH6SDHJD1",
+            "Name": "Integration",
+            "LastUsed": "2018-07-01",
+            "NumberOfMonths": null,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 15291495
+              }
+            ]
+          },
+          {
+            "Id": 81901416,
+            "EmsiId": "KS1248V73PX5Q35G0Q3K",
+            "Name": "General Security",
+            "LastUsed": "2019-03-01",
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 0,
+                "WorkExperienceId": 15291494
+              }
+            ]
+          },
+          {
+            "Id": 81901419,
+            "EmsiId": "KS126ZN706TQT20JSTTT",
+            "Name": "Vulnerability Scanning",
+            "LastUsed": "2014-02-01",
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 2,
+                "WorkExperienceId": 15291496
+              }
+            ]
+          },
+          {
+            "Id": 81901400,
+            "EmsiId": "KS122ST5X31W4TVGPN0B",
+            "Name": "Encryption",
+            "LastUsed": "2014-02-01",
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 2,
+                "WorkExperienceId": 15291496
+              }
+            ]
+          },
+          {
+            "Id": 81901401,
+            "EmsiId": "KS440F476G8SKQRTH4CY",
+            "Name": "Security Policies",
+            "LastUsed": "2018-07-01",
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 15291495
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 2,
+                "WorkExperienceId": 15291496
+              }
+            ]
+          },
+          {
+            "Id": 81901410,
+            "EmsiId": "KS122NQ6YXFQ2WCWT11F",
+            "Name": "Data Centers",
+            "LastUsed": "2014-02-01",
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 2,
+                "WorkExperienceId": 15291496
+              }
+            ]
+          },
+          {
+            "Id": 81901413,
+            "EmsiId": "KS126ZT6PN6XZSN1982K",
+            "Name": "Network Service",
+            "LastUsed": "2019-03-01",
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 0,
+                "WorkExperienceId": 15291494
+              }
+            ]
+          },
+          {
+            "Id": 81901415,
+            "EmsiId": "KS123FK6M3CFP7VC1NDL",
+            "Name": "Payment Systems",
+            "LastUsed": "2019-03-01",
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Summary",
+                "Position": null,
+                "WorkExperienceId": null
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 0,
+                "WorkExperienceId": 15291494
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 15291495
+              }
+            ]
+          },
+          {
+            "Id": 81901417,
+            "EmsiId": "KS123P25Z286W83KZ3M0",
+            "Name": "Ethical Hacking",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Training/Certifications",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 81901418,
+            "EmsiId": "KS1226L74LRWVHV58M4N",
+            "Name": "Compliance Requirements",
+            "LastUsed": "2018-07-01",
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 15291495
+              }
+            ]
+          }
+        ],
+        "Certifications": [
+          "Certified Ethical Hacking CEH UK Certified Security Certified GRCP Certified ITIL",
+          "Certified Entrust Authority Security Manager UK Entrust IdentityGuard Installation and Configuration",
+          "Certified SABSA Belgium Certified VMware MDM Airwatch Bootcamp London Certified FireEye"
+        ],
+        "Publications": [],
+        "Referees": [],
+        "Sections": [
+          {
+            "SectionType": "PersonalDetails",
+            "Bbox": [
+              202.48497,
+              18.1053467,
+              389.2434,
+              74.76764
+            ],
+            "PageIndex": 0,
+            "Text": "Cv.Abdullah Alqahtani Telephone:+966533333333 Email: Abdullahrs88@gmail.com Date of Birth : 28th,April,1988."
+          },
+          {
+            "SectionType": "Summary",
+            "Bbox": [
+              42.708,
+              81.84802,
+              581.329041,
+              138.77301
+            ],
+            "PageIndex": 0,
+            "Text": "Professional Profile Currently I am working as an Information Security Architect at Saudi Payments Company focusing deeply on securing Saudi Payment Systems.I did MSc in Cyber Security at LJMU.As I have a strong background in deploying Honeypots to analyse different types of cyber-attack such as DoS. As well as , having quite good experience in manual penetration testing. Quick to familiarise myself with the latest technologies and industry developments while demonstrating a logical and analytical approach to solving complex problems and issues."
+          },
+          {
+            "SectionType": "Education",
+            "Bbox": [
+              42.7394371,
+              151.208008,
+              511.129,
+              184.701843
+            ],
+            "PageIndex": 0,
+            "Text": "Education and Qualifications MSc: Computer Network Security, Liverpool John Moores University , United Kingdom(2012-2013), with distinction.GPA:4.82. BEng: Computer Networks Engineering ,University of Essex ,United Kingdom (2008-2012) . GPA: 4.37."
+          },
+          {
+            "SectionType": "Training/Certifications",
+            "Bbox": [
+              42.6,
+              196.807983,
+              548.6644,
+              241.4613
+            ],
+            "PageIndex": 0,
+            "Text": "Professional Development Certified Ethical Hacking CEH (UK) – Certified ,Security+ - Certified ,GRCP -Certified , ITIL. - Certified ,Entrust Authority Security Manager (UK) - Entrust IdentityGuard Installation and Configuration. - Certified ,SABSA (Belgium) - Certified ,VMware MDM Airwatch Bootcamp (London). - Certified, FireEye"
+          },
+          {
+            "SectionType": "WorkExperience",
+            "Bbox": [
+              42.7478371,
+              244.687988,
+              581.2004,
+              764.873169
+            ],
+            "PageIndex": 0,
+            "Text": "Work Experience March 2019 Information Security Architect, Saudi Payments • Seeking security gaps in the current design in some selected solutions. • Evaluating and rating new products in the aspect of information security. • Create general security requirements for RFPs for payment and non-payments soltuions. • Redesigning the network between mada and Network Service Providers. • Creating general security requirements for SaudiPayments Websites. • Building Information Security standard for our new Data Center . • Train new employees joining our information security department. • Working with external party to review the current architecture of Payment Systems. • Member of IT proposals evaluation team. July 2018 Information Security Architect , Saudi Arabian Monetary Authority (SAMA) • Review and control multiple security architecture designs to several payment systems including SARIE , mada and SADAD. As well as reviewing the architecture design for new member bank connecting to our environment, • Designing and implementing mada Pay Integration with Apple Pay from information security view.. • Designing the integration between security tools and new IT solutions. • Approval management for Security Change Requests and other systems' NAR requests. • Assist in designing MDM solution to access our internal systems securely over the internet using mobile devices. • Involved in the team who have invented mada Pay mobile app .In Addition , managing & supporting the security domains in several aspects of mada Pay mobile systems. • Creating and reviewing security policies & requirements to our payment environment involving mada Point of Sale security requirements, mada Pay ,and mada Certification center ,etc. • Evaluating and designing new security solutions . • cooperating with the external auditors to ensure that we fulfill the compliance requirements . • A member of SAMA technical team for Gulf Corporation Council Countries (GCC) –\"RTGS-PKI\" project. This involves reviewing the architecture design and evaluating RTGS-PKI vendors. • Reviewing the architecture design of CryptoCurrency \"Aber\" Project between GCC countries . Feb 2014 Information Security Specialist , Saudi Arabian Monetary Authority (SAMA) • Participated in building a new Public Key Infrastructure & Europay MasterCard Visa (EMV) systems as Technical Leader which involves the following tasks: Design, implementation ,testing ,documentation . • Implementing and updating security policies and requirements for several systems of SARIE and MADA ,SADAD Payments . • Implementing and testing the links encryption of fiber optic for SAMA network .. • Deploying and Testing unique security tools and security Hardware for 3 new joined Banks to SARIE system. • Managing multi security systems including but not limited to ,DLP , ,Vulnerability Scanning and Privilege Access Management. • Managing Hardware Security Enhancement project for both SARIE and MADA systems . • Managing the approval of banks' technical security requests. • Implementing ,testing and run PKI & EMV Disaster Recovery systems . • Re-certify digitally all banks' SARIE system yearly . • Enroll and manage user access to our environment securely over mobile devices. Plus , creating compliance and monitored it against several non-compliance activities. • Reviewing physically Banks' Data Center and making sure the data centers are complied with SAMA Security Requirements. • Documenting procedures for IT security solutions ."
+          }
+        ],
+        "IsResumeProbability": 99,
+        "RawText": "Cv.Abdullah Alqahtani Telephone:+966533333333 Email: Abdullahrs88@gmail.com Date of Birth : 28th,April,1988.\nProfessional Profile Currently I am working as an Information Security Architect at Saudi Payments Company focusing deeply on securing Saudi Payment Systems.I did MSc in Cyber Security at LJMU.As I have a strong background in deploying Honeypots to analyse different types of cyber-attack such as DoS. As well as , having quite good experience in manual penetration testing. Quick to familiarise myself with the latest technologies and industry developments while demonstrating a logical and analytical approach to solving complex problems and issues.\nEducation and Qualifications MSc: Computer Network Security, Liverpool John Moores University , United Kingdom(2012-2013), with distinction.GPA:4.82. BEng: Computer Networks Engineering ,University of Essex ,United Kingdom (2008-2012) . GPA: 4.37.\nProfessional Development Certified Ethical Hacking CEH (UK) – Certified ,Security+ - Certified ,GRCP -Certified , ITIL. - Certified ,Entrust Authority Security Manager (UK) - Entrust IdentityGuard Installation and Configuration. - Certified ,SABSA (Belgium) - Certified ,VMware MDM Airwatch Bootcamp (London). - Certified, FireEye\nWork Experience March 2019 Information Security Architect, Saudi Payments • Seeking security gaps in the current design in some selected solutions. • Evaluating and rating new products in the aspect of information security. • Create general security requirements for RFPs for payment and non-payments soltuions. • Redesigning the network between mada and Network Service Providers. • Creating general security requirements for SaudiPayments Websites. • Building Information Security standard for our new Data Center . • Train new employees joining our information security department. • Working with external party to review the current architecture of Payment Systems. • Member of IT proposals evaluation team. July 2018 Information Security Architect , Saudi Arabian Monetary Authority (SAMA) • Review and control multiple security architecture designs to several payment systems including SARIE , mada and SADAD. As well as reviewing the architecture design for new member bank connecting to our environment, • Designing and implementing mada Pay Integration with Apple Pay from information security view.. • Designing the integration between security tools and new IT solutions. • Approval management for Security Change Requests and other systems' NAR requests. • Assist in designing MDM solution to access our internal systems securely over the internet using mobile devices. • Involved in the team who have invented mada Pay mobile app .In Addition , managing & supporting the security domains in several aspects of mada Pay mobile systems. • Creating and reviewing security policies & requirements to our payment environment involving mada Point of Sale security requirements, mada Pay ,and mada Certification center ,etc. • Evaluating and designing new security solutions . • cooperating with the external auditors to ensure that we fulfill the compliance requirements . • A member of SAMA technical team for Gulf Corporation Council Countries (GCC) –\"RTGS-PKI\" project. This involves reviewing the architecture design and evaluating RTGS-PKI vendors. • Reviewing the architecture design of CryptoCurrency \"Aber\" Project between GCC countries . Feb 2014 Information Security Specialist , Saudi Arabian Monetary Authority (SAMA) • Participated in building a new Public Key Infrastructure & Europay MasterCard Visa (EMV) systems as Technical Leader which involves the following tasks: Design, implementation ,testing ,documentation . • Implementing and updating security policies and requirements for several systems of SARIE and MADA ,SADAD Payments . • Implementing and testing the links encryption of fiber optic for SAMA network .. • Deploying and Testing unique security tools and security Hardware for 3 new joined Banks to SARIE system. • Managing multi security systems including but not limited to ,DLP , ,Vulnerability Scanning and Privilege Access Management. • Managing Hardware Security Enhancement project for both SARIE and MADA systems . • Managing the approval of banks' technical security requests. • Implementing ,testing and run PKI & EMV Disaster Recovery systems . • Re-certify digitally all banks' SARIE system yearly . • Enroll and manage user access to our environment securely over mobile devices. Plus , creating compliance and monitored it against several non-compliance activities. • Reviewing physically Banks' Data Center and making sure the data centers are complied with SAMA Security Requirements. • Documenting procedures for IT security solutions .",
+        "AdditionalProperties": {}
+      },
+      "Meta": {
+        "Identifier": "nAmEprEx",
+        "FileName": "null.pdf",
+        "Ready": true,
+        "ReadyDt": "2022-12-26T08:32:23.536444+00:00",
+        "Failed": false,
+        "ExpiryTime": null,
+        "Language": "en",
+        "Pdf": "https://affinda-api.s3.amazonaws.com/media/documents/null_55C9KYG.pdf?AWSAccessKeyId=ASIAU2V7FN3BVZIWPUQW&Signature=WKfaoT3Vv1Q9zwj2hUz6kPQhRjQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0yIkcwRQIhAPSgMy6WjGI0D1GY2JN1KAIyXUsMxtf1oadYDio1hooQAiBGgKWAskyWhbZsT2gmhVi41is%2FuA%2FOUO%2BHjlVVLutBNyriAwgREAAaDDMzMjE4NzEzNTY4MyIM2Fy1PU6CwC3qf%2BUkKr8D3VcIQec2EdYU3MLmVTwFpamnsO2X%2FQliJI2I9YjKyPuysMfO1G2HGV42zzGuVRoXoXDZvlwnH%2BMAvOC%2FDL2Y8HmHrYSJ8CSpschoC9grOSSHgEU5d4F5DLvKkYiaAFgMQPy%2BPuKzmviqp0N2RCe%2B%2B3fOzkKTg1LN8igUNf1C4lzZqt1Hsv3wmWXtoEy30w6PE3J9CJNKSOvwlOjlR8%2FRKHamlgyQDfyD%2BF2U9eKMwuKAkVpkUM8MeVvpQPFacnfmLNE31piIAxJmFYILlGAef2gmXj%2FvDxSv50BZ01epn1iqE%2Fcc1DtEpO23b3gYTsB39H1fehzaq5WW7JVXMMbenaU8xcONVe7YkznGXTY1HFYSNVh6lNFJ%2BjRmcffI2sT2IazLQKueSYSXSsj18wSayLAs2ozYZ9BPupYkkj%2B0AtP7AtZyhacTW4ozw%2FWmfS3i5YMky0shFSdH%2FIASQ5YsOfagmUSf4MizCa3p8Q0IiRjaXZhg6Zv8OWu7woqbB203RaxrZlrWVQD2FRki0TcR6tsnYCZRyGdYBgIuq5p0dyH%2FEyOWfgs0w54AK7c60xx%2FsXQx2FcE7vSRzMX61PJKMLeXpZ0GOqUBQzcpmjQ%2BLKluOwyD5vJUlqVmkhKubtJntCrLuMEdbIctLqB29SCwUI6SnpOG1kIdh0fOrFrlEddtuS3UTLhaf7x%2F6ok7bzyxe9pxBf7tWHHX7TFm0xyPcF08D9HW75QyjDV3gEhxCyLM216CyRXxDKbVl82aZh7MX%2Fx9CSK18wr61T9jOXDss6dhb0QCU4H%2BCj%2BlBiJil2ssJCg93LnR%2BBPmIDAw&Expires=1672047143",
+        "ParentDocument": null,
+        "ChildDocuments": [],
+        "Pages": [
+          {
+            "Id": 9339207,
+            "PageIndex": 0,
+            "Image": null,
+            "Height": 792.0,
+            "Width": 612.0,
+            "Rotation": 0
+          }
+        ],
+        "IsVerified": false,
+        "ReviewUrl": null,
+        "OcrConfidence": null,
+        "AdditionalProperties": {
+          "documentType": "resume"
+        }
+      },
+      "Error": {
+        "ErrorCode": null,
+        "ErrorDetail": null
+      }
+    }
+  }

@@ -1,0 +1,419 @@
+{
+    "Value": {
+      "Data": {
+        "Name": {
+          "Raw": "Salem BIN Khalid",
+          "First": "Salem",
+          "Last": "Bin Khalid",
+          "Middle": "",
+          "Title": ""
+        },
+        "PhoneNumbers": [
+          "+966522222222"
+        ],
+        "Websites": [
+          "www.linkedin.com/in/Salem-bin-Khalid"
+        ],
+        "Emails": [
+          "Salemal.Khalid@gmail.com"
+        ],
+        "DateOfBirth": null,
+        "Location": {
+          "Formatted": "Riyadh 11564, Saudi Arabia",
+          "PostalCode": "11564",
+          "State": "Riyadh Province",
+          "Country": "Saudi Arabia",
+          "CountryCode": "SA",
+          "RawInput": "Riyadh",
+          "StreetNumber": null,
+          "Street": null,
+          "ApartmentNumber": null,
+          "City": "Riyadh"
+        },
+        "Objective": "",
+        "Languages": [
+          "English"
+        ],
+        "LanguageCodes": [],
+        "Summary": "",
+        "TotalYearsExperience": 4,
+        "HeadShot": null,
+        "Education": [
+          {
+            "Id": 8457098,
+            "Organization": "KING SAUD UNIVERSITY",
+            "Accreditation": {
+              "Education": "Bachelor of Business",
+              "InputStr": "Bachelor's in Business Administration – Human Resource",
+              "MatchStr": "Bachelor in Business",
+              "EducationLevel": "bachelors"
+            },
+            "Grade": null,
+            "Location": null,
+            "Dates": {
+              "CompletionDate": "2019-01-01T00:00:00+00:00",
+              "IsCurrent": false,
+              "StartDate": "2014-01-01T00:00:00+00:00"
+            }
+          }
+        ],
+        "Profession": "business developer",
+        "Linkedin": "www.linkedin.com/in/Salem-bin-Khalid",
+        "WorkExperience": [
+          {
+            "Id": 15785652,
+            "JobTitle": "Senior Business Developer",
+            "SocCode": null,
+            "SocName": null,
+            "Organization": "Takamol Holding",
+            "Industry": null,
+            "Location": null,
+            "JobDescription": " Identify new business opportunities including new markets, growth areas, trends, clients, partnerships, products, and services. \n•Contact potential clients to establish Business intelligence. \n•Create revenue streams and identify opportunities to increase portfolio profitability. \n•Pitching new business ideas by identifying opportunity, study and analyze the market, developing business cases, preparing presentations of the opportunity. \n•Leading Ajeer portal and analyze product performance. \n•Develop the internal standers and procedures. Also working on multi-functions as a Project Manager and Financial Controller. \n-Project Management Roles: \n•Define a project's scope and budget. \n•Plan and manage project timelines by prepare detailed project's schedule and work plan. \n•Communicate with executives to keep the project aligned with their goals. \n•Manage contracts with vendors and suppliers and communicating expected deliverables. \n•Manage the relationship with the client and all key stakeholders. \n-Financial Control Roles: \n•Control budget (planned & actual) by monitor the spendings. \n•Prepare budgets and financial forecasts and report variances. \n•Manage cash flow by tracking transactions and regularly reviewing internal reports. \n•High-level financial reporting and analysis to executives. \n•Analyze financial data and create financial models for decision support. \n•Assess financial projections and business plans. ",
+            "Dates": {
+              "StartDate": "2022-04-01T00:00:00+00:00",
+              "EndDate": "2023-01-01T00:00:00+00:00",
+              "MonthsInPosition": 9,
+              "IsCurrent": false
+            },
+            "Occupation": {
+              "JobTitle": "Senior Business Developer",
+              "JobTitleNormalized": "Business Developer",
+              "ManagementLevel": 1,
+              "Classification": null
+            }
+          },
+          {
+            "Id": 15785653,
+            "JobTitle": "Business Developer",
+            "SocCode": null,
+            "SocName": null,
+            "Organization": "Takamol Holding",
+            "Industry": null,
+            "Location": null,
+            "JobDescription": " Analyzing data to deliver suitable information to the decision makers. \n•Pitching new business ideas by identifying opportunity, study and analyze the market, developing business cases, preparing presentations of the opportunity. \n•Planning and managing the ongoing products with the other government entities such as: \n-Ajeer Curfew permits with SDAIA. \n-\"Tasharak\" service for the logistic sector with CITC & TGA. \n•Develop the current services toward a new market segments. \n•Portfolio financial control. ",
+            "Dates": {
+              "StartDate": "2019-06-01T00:00:00+00:00",
+              "EndDate": "2022-03-01T00:00:00+00:00",
+              "MonthsInPosition": 33,
+              "IsCurrent": false
+            },
+            "Occupation": {
+              "JobTitle": "Business Developer",
+              "JobTitleNormalized": "Business Developer",
+              "ManagementLevel": 1,
+              "Classification": null
+            }
+          }
+        ],
+        "Skills": [
+          {
+            "Id": 85018945,
+            "EmsiId": "KS1218W78FGVPVP2KXPX",
+            "Name": "Management",
+            "LastUsed": "2023-01-01",
+            "NumberOfMonths": 9,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Training/Certifications",
+                "Position": null,
+                "WorkExperienceId": null
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 0,
+                "WorkExperienceId": 15785652
+              }
+            ]
+          },
+          {
+            "Id": 85018946,
+            "EmsiId": "KS1219570C4LCP9ND4FH",
+            "Name": "Business Planning",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Training/Certifications",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 85018947,
+            "EmsiId": "KS1280B68GD79P4WMVYW",
+            "Name": "Presentations",
+            "LastUsed": "2023-01-01",
+            "NumberOfMonths": 42,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 0,
+                "WorkExperienceId": 15785652
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 15785653
+              }
+            ]
+          },
+          {
+            "Id": 85018948,
+            "EmsiId": "KS126HY6YLTB9R7XJC4Z",
+            "Name": "Microsoft Office",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 85018949,
+            "EmsiId": "KS1218C6C8TX2Y1KRN37",
+            "Name": "Business Analysis",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Training/Certifications",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 85018950,
+            "EmsiId": "KS120GV6C72JMSZKMTD7",
+            "Name": "Data Analysis",
+            "LastUsed": null,
+            "NumberOfMonths": null,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Skills/Interests/Languages",
+                "Position": null,
+                "WorkExperienceId": null
+              }
+            ]
+          },
+          {
+            "Id": 85018951,
+            "EmsiId": "ESEB1D4619E6E83A061D",
+            "Name": "Planning",
+            "LastUsed": "2022-03-01",
+            "NumberOfMonths": 33,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Training/Certifications",
+                "Position": null,
+                "WorkExperienceId": null
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 1,
+                "WorkExperienceId": 15785653
+              }
+            ]
+          },
+          {
+            "Id": 85018952,
+            "EmsiId": "KS1267F6MSPN366LX7ST",
+            "Name": "Project Management",
+            "LastUsed": "2023-01-01",
+            "NumberOfMonths": 9,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "Training/Certifications",
+                "Position": null,
+                "WorkExperienceId": null
+              },
+              {
+                "Section": "WorkExperience",
+                "Position": 0,
+                "WorkExperienceId": 15785652
+              }
+            ]
+          },
+          {
+            "Id": 85018953,
+            "EmsiId": "KS441DK5ZDF8Q8FWL19R",
+            "Name": "Timelines",
+            "LastUsed": "2023-01-01",
+            "NumberOfMonths": 9,
+            "Type": "soft_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 0,
+                "WorkExperienceId": 15785652
+              }
+            ]
+          },
+          {
+            "Id": 85018954,
+            "EmsiId": "KS123Y76D7JBC3TT7S7W",
+            "Name": "Financial Data",
+            "LastUsed": "2023-01-01",
+            "NumberOfMonths": 9,
+            "Type": "hard_skill",
+            "Count": null,
+            "Weighting": null,
+            "Sources": [
+              {
+                "Section": "WorkExperience",
+                "Position": 0,
+                "WorkExperienceId": 15785652
+              }
+            ]
+          }
+        ],
+        "Certifications": [
+          "Certified Strategy and Business Planning C SBP In progress",
+          "Foundation in Business Analysis Assist Knowledge Development June 2020"
+        ],
+        "Publications": [],
+        "Referees": [],
+        "Sections": [
+          {
+            "SectionType": "PersonalDetails",
+            "Bbox": [
+              115.703,
+              83.5817261,
+              520.8779,
+              143.485962
+            ],
+            "PageIndex": 0,
+            "Text": "Salem BIN Khalid Riyadh 0522222222 SalemAl.Khalid@gmail.com www.linkedin.com/in/Salem-bin-Khalid"
+          },
+          {
+            "SectionType": "WorkExperience",
+            "Bbox": [
+              87.16524,
+              191.133667,
+              536.402039,
+              653.654053
+            ],
+            "PageIndex": 0,
+            "Text": "EXPERIENCE Senior Business Developer | Takamol Holding April 2022 – Until now • Identify new business opportunities including new markets, growth areas, trends, clients, partnerships, products, and services. • Contact potential clients to establish Business intelligence. • Create revenue streams and identify opportunities to increase portfolio profitability. • Pitching new business ideas by identifying opportunity, study and analyze the market, developing business cases, preparing presentations of the opportunity. • Leading Ajeer portal and analyze product performance. • Develop the internal standers and procedures. Also working on multi-functions as a Project Manager and Financial Controller. - Project Management Roles: • Define a project's scope and budget. • Plan and manage project timelines by prepare detailed project's schedule and work plan. • Communicate with executives to keep the project aligned with their goals. • Manage contracts with vendors and suppliers and communicating expected deliverables. • Manage the relationship with the client and all key stakeholders. - Financial Control Roles: • Control budget (planned & actual) by monitor the spendings. • Prepare budgets and financial forecasts and report variances. • Manage cash flow by tracking transactions and regularly reviewing internal reports. • High-level financial reporting and analysis to executives. • Analyze financial data and create financial models for decision support. • Assess financial projections and business plans."
+          },
+          {
+            "SectionType": "WorkExperience",
+            "Bbox": [
+              108.056,
+              55.2902222,
+              538.8506,
+              210.33728
+            ],
+            "PageIndex": 1,
+            "Text": "Business Developer | Takamol Holding JUNE 2019 – Mar 2022 • Analyzing data to deliver suitable information to the decision makers. • Pitching new business ideas by identifying opportunity, study and analyze the market, developing business cases, preparing presentations of the opportunity. • Planning and managing the ongoing products with the other government entities such as: - Ajeer Curfew permits with SDAIA. - \"Tasharak\" service for the logistic sector with CITC & TGA. • Develop the current services toward a new market segments. • Portfolio financial control."
+          },
+          {
+            "SectionType": "Education",
+            "Bbox": [
+              87.16524,
+              242.387756,
+              537.522,
+              306.266022
+            ],
+            "PageIndex": 1,
+            "Text": "EDUCATION Bachelor's in Business Administration – Human Resource | King Saud University 2014 – 2019"
+          },
+          {
+            "SectionType": "Training/Certifications",
+            "Bbox": [
+              87.16524,
+              347.573364,
+              486.327484,
+              427.424072
+            ],
+            "PageIndex": 1,
+            "Text": "Professional Certificates • Project Management Professional (PMP) – In progress • Certified Strategy and Business Planning (C-SBP) – In progress • Foundation in Business Analysis (Assist Knowledge Development) – June 2020"
+          },
+          {
+            "SectionType": "Skills/Interests/Languages",
+            "Bbox": [
+              86.558754,
+              455.047729,
+              408.6527,
+              513.0273
+            ],
+            "PageIndex": 1,
+            "Text": "SKILLS Data Analysis Budget Controlling Microsoft Office"
+          }
+        ],
+        "IsResumeProbability": 100,
+        "RawText": "Salem BIN Khalid Riyadh 0522222222 SalemAl.Khalid@gmail.com www.linkedin.com/in/Salem-bin-Khalid\nEXPERIENCE Senior Business Developer | Takamol Holding April 2022 – Until now • Identify new business opportunities including new markets, growth areas, trends, clients, partnerships, products, and services. • Contact potential clients to establish Business intelligence. • Create revenue streams and identify opportunities to increase portfolio profitability. • Pitching new business ideas by identifying opportunity, study and analyze the market, developing business cases, preparing presentations of the opportunity. • Leading Ajeer portal and analyze product performance. • Develop the internal standers and procedures. Also working on multi-functions as a Project Manager and Financial Controller. - Project Management Roles: • Define a project's scope and budget. • Plan and manage project timelines by prepare detailed project's schedule and work plan. • Communicate with executives to keep the project aligned with their goals. • Manage contracts with vendors and suppliers and communicating expected deliverables. • Manage the relationship with the client and all key stakeholders. - Financial Control Roles: • Control budget (planned & actual) by monitor the spendings. • Prepare budgets and financial forecasts and report variances. • Manage cash flow by tracking transactions and regularly reviewing internal reports. • High-level financial reporting and analysis to executives. • Analyze financial data and create financial models for decision support. • Assess financial projections and business plans.\nBusiness Developer | Takamol Holding JUNE 2019 – Mar 2022 • Analyzing data to deliver suitable information to the decision makers. • Pitching new business ideas by identifying opportunity, study and analyze the market, developing business cases, preparing presentations of the opportunity. • Planning and managing the ongoing products with the other government entities such as: - Ajeer Curfew permits with SDAIA. - \"Tasharak\" service for the logistic sector with CITC & TGA. • Develop the current services toward a new market segments. • Portfolio financial control.\nEDUCATION Bachelor's in Business Administration – Human Resource | King Saud University 2014 – 2019\nProfessional Certificates • Project Management Professional (PMP) – In progress • Certified Strategy and Business Planning (C-SBP) – In progress • Foundation in Business Analysis (Assist Knowledge Development) – June 2020\nSKILLS Data Analysis Budget Controlling Microsoft Office",
+        "AdditionalProperties": {}
+      },
+      "Meta": {
+        "Identifier": "JQeqwubO",
+        "FileName": "null.pdf",
+        "Ready": true,
+        "ReadyDt": "2023-01-05T06:46:54.919196+00:00",
+        "Failed": false,
+        "ExpiryTime": null,
+        "Language": "en",
+        "Pdf": "https://affinda-api.s3.amazonaws.com/media/documents/null_DsHOXL5.pdf?AWSAccessKeyId=ASIAU2V7FN3BVLZFDW4H&Signature=4lYnKr1GJAgt8Xyz%2Brv3QNdhLqQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjELb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0yIkcwRQIhAKfhD52PC9pH05icF%2BL%2F3bMEIaH7Yw5%2BE%2BXeXzPXHG%2F%2FAiBuUESMaBHuwmHXU5jqBCO2Qh%2FxfWxZUdbdmpwMquSuNirrAwj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDMzMjE4NzEzNTY4MyIMoaQUEGmYj6MKLZ50Kr8Dtj%2BsFjgW0UpHPFXTGshUKvFVX1eM3WWsumvMQVT6rbI2AQrfa5BXtPedT3FZ%2FB3LitDUfachTs1uqmi4VUw0NAsPRuwyYwwq63Wz85IUZL6nWjhJF%2FQk3dXjkrcyHjGz7TKwrPgUnNxsySdRjQqeZFioUKsoQE17Wnfj9vFIwJZSkGH7xFxTjxY%2FTRByg%2BG4EqHSM3p4k6z%2FQI%2FNR5qDlKyqDrIv3ekWfXcWYLGRVUNAO1D3ftz8px6njU7i4SYPfqgyPy%2FfwropunLWXq1TyV1AYiAuBlxttnBO0%2By2ALRNQWc8feow6XnETyKTigGBmZRYWexnh2iX2q1tcInj6Q7LZLJGm%2FiuCrAoYpAAy9HSz14J6E%2BZvg%2FJ5Kt5qrixVQcWK9eAYN%2FrvHIg2ODu8RWgmSJ46TRVHwO3rh4p7hkrphaiwQ%2FhCqSVU%2BAU%2BIi0gVcP4oZkX3rR6lUA3X81%2B9NJRtKs3C0fbVmtQsl4LR0%2FVYwinPKWPPFjI8vXfsnJJCrVxzQn5%2FoD9MHTQcsAbC%2F%2FwghlnjtNq6Rrtum9FkmNqkMUB2IM%2B2x39OE35rjK4%2BHzpsNDGhtHjqbbWFNBMI7Q2Z0GOqUBact1i3%2FLRYJrFcdMHIXBtfHYeCmth0oyBfER8eJaBVUqJPUAosOn3J5AmP%2Fs%2B0fRAh%2BbNRGHexRmpYIiWcrqA5iWgxwu6G%2F%2Fp8q4miiKhc6xcGKn5sTepMWB%2BR1RzyDZUiEH3WdncXTaTRvWBvatpbYpb7lIvX2L5DPluBUFIqZMj53lOdwl%2BHQpCpvznUGhkIfXWmWEAfltgLgaFFwcUsSQ%2B864&Expires=1672904815",
+        "ParentDocument": null,
+        "ChildDocuments": [],
+        "Pages": [
+          {
+            "Id": 9675727,
+            "PageIndex": 0,
+            "Image": null,
+            "Height": 792.0,
+            "Width": 612.0,
+            "Rotation": 0
+          },
+          {
+            "Id": 9675728,
+            "PageIndex": 1,
+            "Image": null,
+            "Height": 792.0,
+            "Width": 612.0,
+            "Rotation": 0
+          }
+        ],
+        "IsVerified": false,
+        "ReviewUrl": null,
+        "OcrConfidence": null,
+        "AdditionalProperties": {
+          "documentType": "resume"
+        }
+      },
+      "Error": {
+        "ErrorCode": null,
+        "ErrorDetail": null
+      }
+    }
+  }
